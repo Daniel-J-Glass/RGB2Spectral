@@ -17,7 +17,7 @@ Unstructured local experimentation.
 https://kolarivision.com/wp-content/uploads/2022/05/590CWB-Medium-Small-Custom.jpg
 
 # TODO:
-  &emsp;Programatic spectral reconstruction and filtering
+  &emsp;Programatic spectral reconstruction and filtering<br />
   &emsp;Set up structured workflow<br />
   &emsp;Code cleanup<br />
   &emsp;Documentation<br />
