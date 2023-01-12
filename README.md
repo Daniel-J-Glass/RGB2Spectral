@@ -3,9 +3,10 @@ Converting RGB photographs into full spectrum photography with Pix2PixHD and spe
 
 Unstructured local experimentation.
 
-# Example:
-<img src="1.jpg" alt="RGB" width="500"/> <img src="1-IR1024.jpg" alt="NIR" width="500"/> 
-
+# Example RGB:
+<img src="1.jpg" alt="RGB" width="500"/>
+# Example Generated NIR:
+<img src="1-IR1024.jpg" alt="NIR" width="500"/> 
 # Composite 590nm through manual spectral reconstruction based on spectral response of generic camera sensor
 <img src="1-590nm.JPG" alt="Composite 590nm" width="500"/>
 
