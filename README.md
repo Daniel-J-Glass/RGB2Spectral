@@ -2,7 +2,7 @@
 Converting RGB photographs into full spectrum photography with machine learning
 
 Unstructured local experimentation.
-TODO:
-  Set up structured workflow
-  Code cleanup
-  Documentation
+# TODO:
+  &emsp;Set up structured workflow<br />
+  &emsp;Code cleanup<br />
+  &emsp;Documentation<br />
