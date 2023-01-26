@@ -9,7 +9,7 @@ Unstructured local experimentation.
 # Sample Generated NIR:
 <img src="1-IR1024.jpg" alt="NIR" width="500"/> 
 
-# Composite 590nm through manual spectral reconstruction based on spectral response of generic camera sensor:
+# Synthetic 590nm using composite of NIR and RGB based on spectral response of generic camera sensor:
 <img src="1-590nm.JPG" alt="Composite 590nm" width="500"/>
 
 # Example of in camera 590nm:
