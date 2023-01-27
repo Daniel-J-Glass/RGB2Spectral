@@ -1,6 +1,6 @@
 # RGB2Spectral
 Converting RGB photographs into full spectrum photography with Pix2PixHD and spectral reconstruction.<br>
-This is not simply a color alteration of green to white. Pix2PixHD uses complex understandings of scenes to provide contextual conversion.
+This is not simply a color alteration of green to white. Pix2PixHD uses complex understandings of scenes to provide contextual conversion.<br>
 Unstructured local experimentation.
 
 # Sample RGB:
